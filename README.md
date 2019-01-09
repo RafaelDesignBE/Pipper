@@ -8,3 +8,6 @@ If the video is already playing popped out, it will return to the original playe
 ## YouTube (experimental)
 On YouTube when entering miniplayer, it will pop out.
 When exiting the miniplayer it will go back.
+
+## Installation
+Because this is an experimental version, you will need to load this as unpacked as developer.
